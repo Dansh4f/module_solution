@@ -37,17 +37,10 @@ This is a React project developed as part of Assignment 2. It demonstrates the i
 
 ## Project Structure
 ```
-src/
-├── components/
-│   ├── Component1.jsx
-│   └── Component2.jsx
-├── pages/
-│   ├── Home.jsx
-│   └── About.jsx
-├── assets/
-│   └── styles/
-├── App.js
-└── index.js
+Assignment 2/
+├── css/
+│   ├──index.css
+└── index.html
 ```
 
 ## License
